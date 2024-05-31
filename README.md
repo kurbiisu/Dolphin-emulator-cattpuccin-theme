@@ -28,7 +28,7 @@ Alternatively, if you are having trouble locating your dolphin folder then you c
 ![image](https://github.com/kurbiisu/Dolphin-emulator-cattpuccin-theme/assets/92827029/06f02905-1a05-4f73-9c33-68d10565fd26)  ![image](https://github.com/kurbiisu/Dolphin-emulator-cattpuccin-theme/assets/92827029/3252ce5f-0818-4d9e-9a6c-614099604a2c) 
 
 
-# How to set the theme? 
+# How do I set the theme? 
 
 To set the theme all you need to change is Style inside of the interface option in Config/Settings! 
 
