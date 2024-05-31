@@ -39,6 +39,6 @@ To set the theme all you need to change is Style inside of the interface option 
 
 Heres some images of the themes! 
 
-**Macchiato** -><img src="Macchiato.png" width="250" height="250"> **Mocha** -><img src="Mocha.png" width="250" height="250"> **Frappé** -><img src="Frappe.png" width="250" height="250">
+**Macchiato**-><img src="Macchiato.png" width="250" height="250"> **Mocha**-><img src="Mocha.png" width="250" height="250"> **Frappé**-><img src="Frappe.png" width="250" height="250">
 
 
