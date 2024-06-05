@@ -1,5 +1,5 @@
 # Cattpuccin Themes for Dolphin Emulator! 
-
+*(Note this also works with PCSX2)*
 Have you noticed the lack of nice looking themes for dolphin? I know I have!
 
 To help with this lack of theming for such an amazing program I decided to theme it myself using the Catppuccin palette!
