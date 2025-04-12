@@ -11,7 +11,7 @@ Got any other Palettes you'd like to see dolphin in?
 Join my discord and suggest them :D 
 https://discord.gg/YMgjJA8d
 
-:warning: **Warning:** Latte is not finished! I will release it when it is :)
+:warning: **Warning:** Latte is not finished! I will release it when it is :) (it wont ever be finished)
 
 # How do I use this? 
 
